@@ -28,4 +28,4 @@ valores o si simplemente se generan de forma aleatoria.
 ## Entregas
 
 Desde este espacio se puede acceder a las distintas entregas:
-- [Primera entrega]([https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/main/Proyecto_Entrega%201.pdf](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/05386a4233c85c5ccb536374a3a756ef02421389/PROYECTO_ENTREGA1.pdf))
+- [Primera entrega](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/05386a4233c85c5ccb536374a3a756ef02421389/PROYECTO_ENTREGA1.pdf)
