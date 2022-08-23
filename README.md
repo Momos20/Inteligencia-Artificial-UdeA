@@ -15,8 +15,7 @@ de Inteligencia Artificial de la Universidad de Antioquia
 
 
 ## Set de datos
-
-El set de datos que vamos a utilizar es [ COVID-19 dataset ](https://www.kaggle.com/datasets/einsteindata4u/covid19?resource=download).
+El set de datos que vamos a utilizar es [ COVID-19 dataset ] ( https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset ) .
 Este set de datos contiene información anonimizada de distintas partes del mundo, como lo es
 Israel y Brasil, con el fin de analizar cómo es el comportamiento de la COVID-19.
 
