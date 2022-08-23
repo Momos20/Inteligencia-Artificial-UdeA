@@ -23,6 +23,9 @@ El set de datos tiene mucha información según resultados de pruebas que se les
 a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patrón en estos
 valores o si simplemente se generan de forma aleatoria.
 
+Para visualizar el set de datos puede usarse el siguiente link:
+[Abrir en Collab](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)
+
 
 ## Entregas
 
