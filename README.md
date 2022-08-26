@@ -32,3 +32,8 @@ Para visualizar el set de datos puede usarse el siguiente link:
 Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/05386a4233c85c5ccb536374a3a756ef02421389/PROYECTO_ENTREGA1.pdf)
 - [Segunda entrega](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/38a32ca23734564fbd40c14b18275d86c15d9ab7/PROYECTO_ENTREGA2.pdf)
+
+## Videos
+
+En este espacio de citan los videos correspondientes a cada entrega:
+- [Primera entrega](https://youtu.be/JZYvBkXeqlo)
