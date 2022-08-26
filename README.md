@@ -36,4 +36,4 @@ Desde este espacio se puede acceder a las distintas entregas:
 ## Videos
 
 En este espacio de citan los videos correspondientes a cada entrega:
-- [Primera entrega](https://youtu.be/JZYvBkXeqlo)
+- [Video segunda entrega] (https://youtu.be/JZYvBkXeqlo)
