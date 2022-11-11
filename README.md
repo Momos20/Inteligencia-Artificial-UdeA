@@ -70,7 +70,7 @@ Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/primeraEntrega/Proyecto_Entrega%201.pdf)
 - [Segunda entrega](
 https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entrega%202.pdf)
-- [Entrega final](https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entrega_Final.pdf)
+- [Entrega final](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/fc798b154a999740bb90468f29fc97119c9a6208/Proyecto_Entrega%202.pdf)
 
 ## Videos
 
