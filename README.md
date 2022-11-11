@@ -68,9 +68,8 @@ Y con ello los datos ya estarán disponibles. Es posible guardar también los da
 
 Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/b0cacf560523fb09c669d7e65cb6a15951642628/PROYECTO_ENTREGA1.pdf)
-- [Segunda entrega](
-https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entrega%202.pdf)
-- [Entrega final](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/fc798b154a999740bb90468f29fc97119c9a6208/Proyecto_Entrega%202.pdf)
+- [Segunda entrega](https://github.com/Momos20/Inteligencia-Artificial-UdeA/blob/28eb865fb9d661947cf7869fa68f76ed275c7d55/PROYECTO_ENTREGA2.pdf)
+- [Entrega final]()
 
 ## Videos
 
